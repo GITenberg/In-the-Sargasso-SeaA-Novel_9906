@@ -1,0 +1,33 @@
+_repo: In-the-Sargasso-SeaA-Novel_9906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Janvier, Thomas A. (Thomas Allibone)
+    alias: Janvier, Thomas Allibone
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '3196'
+    url: http://www.gutenberg.org/2009/agents/3196
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
+description: "In the Sargasso Sea is a children's novel written in 1898 by Thomas\
+  \ Allibone Janvier. Recently, Kessinger Publishing's rare reprints has re-issued\
+  \ the book.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9906'
+  wikidata: Q14981036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: 'In the Sargasso Sea
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/9906
+wikipedia:
+- https://en.wikipedia.org/wiki/In_the_Sargasso_Sea
